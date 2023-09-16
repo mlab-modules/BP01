@@ -16,7 +16,7 @@ images:
 - doc/img/BP01A_QRcode.png
 - doc/img/filtr_bez_LNAbias.png
 mark: 50
-status: 0
+status: 3
 tags:
 - mlab
 - mlab-module
