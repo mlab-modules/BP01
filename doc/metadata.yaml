@@ -16,6 +16,7 @@ images:
 - doc/img/BP01A_QRcode.png
 - doc/img/filtr_bez_LNAbias.png
 mark: 50
+replaced: BP02
 status: 3
 tags:
 - mlab
