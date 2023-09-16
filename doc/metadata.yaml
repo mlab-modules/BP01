@@ -16,6 +16,7 @@ images:
 - doc/img/filr_s_LNAbias.png
 - doc/img/filtr_bez_LNAbias.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
