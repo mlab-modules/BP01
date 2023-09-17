@@ -1,4 +1,5 @@
-description: null
+description: SMD construction of band pass filter intented to be used in radioastronomy
+  applications. Primarily designed to 20-40MHz pass band.
 github_branch: BP01A
 github_repo: BP01
 github_url: https://github.com/mlab-modules/BP01
