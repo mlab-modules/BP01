@@ -4,6 +4,7 @@ github_branch: BP01A
 github_repo: BP01
 github_url: https://github.com/mlab-modules/BP01
 homepage: false
+image_title: doc/img/BP01A_top_small.jpg
 images:
 - doc/img/P1120824.jpg
 - doc/img/BP01A_top_small.jpg
@@ -17,8 +18,7 @@ images:
 - doc/img/BP01A_QRcode.png
 - doc/img/filtr_bez_LNAbias.png
 mark: 50
-replaced: BP02
-status: 3
+status: 2
 tags:
 - mlab
 - mlab-module
